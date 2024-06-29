@@ -1,1 +1,1 @@
- ## Primeiro repositorio usando nano, 2 aula udemy..
+ ## Primeiro repositorio usando nano, aula 2 do curso da udemy..
