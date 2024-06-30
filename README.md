@@ -1,1 +1,2 @@
- ## Primeiro repositorio pelo terminal, linux mint, usando nano, aula 2 do curso da udemy..
+ ## Primeiro repositorio pelo terminal, linux mint, usando nano, aula 2 do curso da udemy..mais 
+dia de revisao...
